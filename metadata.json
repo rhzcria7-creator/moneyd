@@ -1,0 +1,8 @@
+{
+  "name": "React Bits Gallery",
+  "description": "A showcase of stunning UI components built with React and Motion, featuring BlurText, ShinyText, AnimatedList, BorderGlow, Carousel, and ClickSpark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
